@@ -1,7 +1,7 @@
 # Remote PM Board — SaaS Kanban Project Management (Portfolio Demo)
 
 **Live Demo:**  
-[[remote-pm-board-portfolio.vercel.app](https://remote-pm-board-portfolio-qmzae0mz7.vercel.app/)](https://vercel.com/abhishek-dhamas-projects-f485f7f8/remote-pm-board-portfolio)
+https://remote-pm-board-portfolio.vercel.app/
 
 ---
 
