@@ -1,0 +1,8 @@
+.app { font-family: sans-serif; margin: 40px; }
+.login, .dashboard { max-width: 400px; margin: auto; }
+.projects { margin-bottom: 20px; }
+.project { background: #e3e3e3; cursor: pointer; margin: 6px; padding: 8px; border-radius: 5px; }
+.kanban { margin-top: 20px; }
+.columns { display: flex; gap: 20px; }
+.column { background: #e0f7fa; min-width: 120px; min-height: 100px; border-radius: 7px; padding: 10px; }
+.task { background: #fffde7; margin: 7px 0; padding: 6px 8px; border-radius: 5px; cursor: grab; }
